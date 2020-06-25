@@ -1,0 +1,112 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+
+/* HomePage CSS */
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: darkgray;
+}
+body {
+  color: black;
+  background-color: white 
+}
+.point {
+	color: black
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 100Px;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+
+}
+}
+.adadf { 
+ text-align: center;
+}
+.text1{
+text-align: center;
+}
+.sa1 {
+  margin-bottom: 100px;
+}
+.margin-bottom {
+  margin-top: 200px;
+
+}
+.right-line {
+	margin-top: 50px
+}
+.img1 {
+  border-radius: 8px;
+  filter: brightness(85%)
+  padding: 150px 0;
+  position: relative;
+}
+.text-content {
+ margin-top: 150px
+
+}
+.carousel-inner {
+  height: 600px;
+  width: 200%;
+}
+.text-icon-content {
+  box-sizing: border-box;
+}
+.payment {
+  padding-left: 50px;
+  padding-top: 60px;
+
+}
+.backbild {
+  padding-bottom: -100px;
+}
+.md1 {
+  margin-left: 650px;
+  margin-top: 80px;
+}
+/* RootServer CSS */
+.main-header {
+  padding: 20px 0;
+  margin-bottom: 40px;
+  position: relative;
+  background-color: lightgray;
+}
+.page-title {
+  padding-left: 350px;
+  padding-top: 20px;
+}
+.active1 {
+  background-color: darkgray;
+
+}
+.rootserver1 {
+  background-color: lightgray;
+}
